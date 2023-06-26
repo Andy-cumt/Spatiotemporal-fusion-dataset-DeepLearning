@@ -6,4 +6,4 @@ The relevant paper has been accepted and is awaiting publication.
 A task decoupled framework for enhancing the deep learning-based spatiotemporal fusion method
 
 link：https://pan.baidu.com/s/1Yw8YTRrHRPeP09Kiq78eRg?pwd=CUMT 
-Extraction code：rm4qCUMT
+Extraction code: CUMT
